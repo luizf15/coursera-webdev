@@ -1,0 +1,62 @@
+body {
+	font-size: 16px;
+	color: #000;
+}
+
+#header-nav {
+	border: 0;
+	border-radius: 0;
+	background-color: #d6d6d6;
+}
+
+.navbar-brand h1 {
+	font-weight: bold;
+	margin-top: 0;
+	font-size: 1.3em;
+	text-shadow: 1px 1px 1px #222;
+}
+
+#collapsable-menu {
+	text-align: center;
+}
+
+
+#nav-list a:hover {
+	background-color: #fff;
+}
+
+.navbar-header button.navbar-toggle:hover {
+	background-color: #fff;
+}
+
+.navbar-header button.navbar-toggle {
+	margin-top: 10px;
+	background-color: #b2b2b2;
+}
+
+#menu h2 {
+	font-family: 'Poiret One', cursive;
+	color: #687577;
+	text-shadow: 1px 1px 1px #222;
+	margin-bottom: 40px;
+}
+
+
+#chicken, #beef, #sushi {
+	box-shadow: 5px 5px 5px #909090;
+	background-color: #ececec;
+	border: 1px solid #676767;
+	border-radius: 10px;
+	margin-bottom: 30px;
+	padding: 10px;
+}
+
+#chicken h3, #beef h3, #sushi h3 {
+	font-family: 'Poiret One', cursive;
+	color: #850b18;
+}
+
+#chicken p, #beef p, #sushi p {
+	color: #2d2d2d;
+}
+
